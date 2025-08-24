@@ -47,7 +47,7 @@ def handle_file_input():
         print(f"Unexpected error: {e}")
 
 
-# Entry Point
-if __name__ == "__main__":
-        modify_file_fixed()
-        handle_file_input()
+
+modify_file_fixed()
+handle_file_input()
+
